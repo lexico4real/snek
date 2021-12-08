@@ -2,7 +2,7 @@
   "name": "snekjs",
   "version": "1.0.4",
   "description": "A terminal-based Snake implementation written in JavaScript (Node.js) 🐍",
-  "author": "Tania Rascia",
+  "author": "Oluyinka Abubakar",
   "main": "index.js",
   "bin": {
     "snek": "./play.js"
